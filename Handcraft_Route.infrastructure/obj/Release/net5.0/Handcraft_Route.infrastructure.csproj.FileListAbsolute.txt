@@ -16,3 +16,21 @@ C:\Users\cmezq\Desktop\Tareas_Practicas\4to Cuatrimestre\4to\HandCraft-Route-Ult
 C:\Users\cmezq\Desktop\Tareas_Practicas\4to Cuatrimestre\4to\HandCraft-Route-Ultimate-Edition-main\HandCraft-Route-Ultimate-Edition-main\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.pdb
 C:\Users\cmezq\Desktop\Tareas_Practicas\4to Cuatrimestre\4to\HandCraft-Route-Ultimate-Edition-main\HandCraft-Route-Ultimate-Edition-main\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.genruntimeconfig.cache
 C:\Users\cmezq\Desktop\Tareas_Practicas\4to Cuatrimestre\4to\HandCraft-Route-Ultimate-Edition-main\HandCraft-Route-Ultimate-Edition-main\Handcraft_Route.infrastructure\obj\Release\net5.0\ref\Handcraft_Route.infrastructure.dll
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\bin\Release\net5.0\Handcraft_Route.infrastructure.deps.json
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\bin\Release\net5.0\Handcraft_Route.infrastructure.runtimeconfig.json
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\bin\Release\net5.0\Handcraft_Route.infrastructure.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\bin\Release\net5.0\Handcraft_Route.infrastructure.dll
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\bin\Release\net5.0\ref\Handcraft_Route.infrastructure.dll
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\bin\Release\net5.0\Handcraft_Route.infrastructure.pdb
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\bin\Release\net5.0\Handcraft_Route.domain.dll
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\bin\Release\net5.0\Handcraft_Route.domain.pdb
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.dll
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\obj\Release\net5.0\ref\Handcraft_Route.infrastructure.dll
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.pdb
+C:\Users\Usuario\Desktop\Handcraft_MovilApp_API\Handcraft_Route.infrastructure\obj\Release\net5.0\Handcraft_Route.infrastructure.genruntimeconfig.cache

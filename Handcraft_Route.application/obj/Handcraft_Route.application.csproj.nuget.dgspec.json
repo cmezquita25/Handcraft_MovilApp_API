@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.application\\Handcraft_Route.application.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.application\\Handcraft_Route.application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.application\\Handcraft_Route.application.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.application\\Handcraft_Route.application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.application\\Handcraft_Route.application.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.application\\Handcraft_Route.application.csproj",
         "projectName": "Handcraft_Route.application",
-        "projectPath": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.application\\Handcraft_Route.application.csproj",
-        "packagesPath": "C:\\Users\\cmezq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.application\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.application\\Handcraft_Route.application.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cmezq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj": {
-                "projectPath": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj"
               },
-              "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.infrastructure\\Handcraft_Route.infrastructure.csproj": {
-                "projectPath": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.infrastructure\\Handcraft_Route.infrastructure.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.infrastructure\\Handcraft_Route.infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.infrastructure\\Handcraft_Route.infrastructure.csproj"
               }
             }
           }
@@ -89,24 +89,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj",
         "projectName": "Handcraft_Route.domain",
-        "projectPath": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj",
-        "packagesPath": "C:\\Users\\cmezq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.domain\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cmezq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -171,24 +171,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.infrastructure\\Handcraft_Route.infrastructure.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.infrastructure\\Handcraft_Route.infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.infrastructure\\Handcraft_Route.infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.infrastructure\\Handcraft_Route.infrastructure.csproj",
         "projectName": "Handcraft_Route.infrastructure",
-        "projectPath": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.infrastructure\\Handcraft_Route.infrastructure.csproj",
-        "packagesPath": "C:\\Users\\cmezq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.infrastructure\\Handcraft_Route.infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cmezq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -203,8 +203,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj": {
-                "projectPath": "C:\\Users\\cmezq\\Desktop\\Tareas_Practicas\\4to Cuatrimestre\\4to\\HandCraft-Route-Ultimate-Edition-main\\HandCraft-Route-Ultimate-Edition-main\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Handcraft_MovilApp_API\\Handcraft_Route.domain\\Handcraft_Route.domain.csproj"
               }
             }
           }
@@ -257,7 +257,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
